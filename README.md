@@ -53,3 +53,4 @@ Make sure you have the following installed:
 flutter pub get
 flutter run
 # finKart
+# finKart
